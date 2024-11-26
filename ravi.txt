@@ -1,1 +1,2 @@
 this is not ignorefile
+creating new file and adding some data
